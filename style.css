@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(103, 156, 235);
+}
+h1{
+    font-size: large;
+    text-align: center;
+}
+h2{
+    font-size: large;
+    text-align: center;
+}
+.container1{ 
+    position: relative;
+  text-align: center;
+  margin: 0 auto;
+  clear: left;
+  height: auto;
+    height: 100px;
+    width: 300px;
+   
+    align-items: center;
+
+}
+.container2{
+    position: relative;
+  margin: 0 auto;
+  text-align: center;
+  clear: left;
+  height: auto;
+  height: 100px;
+    width: 300px;
+  
+    align-items: center;
+
+
+}
